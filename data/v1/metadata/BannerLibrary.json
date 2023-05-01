@@ -1,0 +1,60 @@
+{
+  "Beginner":[
+    {
+      "ID":21,
+      "Type":"Beginner",
+      "Name":"始发跃迁",
+      "Hint":"始发跃迁",
+      "Rank5Up":[],
+      "Rank4Up":[],
+      "BeginTime":"2023-04-26 08:00:00",
+      "EndTime":"2033-04-26 08:00:00"
+    }
+  ],
+  "Permanent":[
+    {
+      "ID":11,
+      "Type":"Permanent",
+      "Name":"群星跃迁",
+      "Hint":"群星跃迁",
+      "Rank5Up":[],
+      "Rank4Up":[],
+      "BeginTime":"2023-04-26 08:00:00",
+      "EndTime":"2033-04-26 08:00:00"
+    }
+  ],
+  "Event":[
+    {
+      "ID":100,
+      "Version":"1.0.0",
+      "Name":"通往群星的轨道",
+      "BeginTime":"2023-04-26 08:00:00",
+      "EndTime":"2023-06-07 06:00:00",
+      "Banners":[
+        {
+          "ID":111,
+          "Type":"CharacterEvent",
+          "Name":"蝶立锋锷",
+          "Hint":"希儿",
+          "Rank5Up":["希儿"],
+          "Rank4Up":["虎克","佩拉","娜塔莎"],
+          "BeginTime":"2023-04-26 08:00:00",
+          "BeginTimeSync":"True",
+          "EndTime":"2023-05-17 17:59:59"
+        },
+        {
+          "ID":121,
+          "Type":"LCEvent",
+          "Name":"流光定影",
+          "Hint":"于月色中",
+          "Rank5Up":["于月色中"],
+          "Rank4Up":["鼹鼠党欢迎你","晚安与睡颜","一场术后对话"],
+          "BeginTime":"2023-04-26 08:00:00",
+          "BeginTimeSync":"True",
+          "EndTime":"2023-05-17 17:59:59"
+        }
+      ]
+    }
+    
+  ]
+}
