@@ -1,0 +1,112 @@
+{
+    "trusted":[
+        {
+            "export_app":"DodocoTales.StarRail", 
+            "zh-cn":"星穹铁道跃迁观测工具",
+            "en_us":"Star Rail Warp Observe",
+            "author":"TremblingMoeNew",
+            "opensource":true
+        },
+        {
+            "export_app":"star-rail-warp-export", 
+            "zh-cn":"崩坏：星穹铁道跃迁记录导出工具",
+            "en_us":"Star Rail Warp History Exporter",
+            "author":"biuuu",
+            "opensource":true
+        },
+        {
+            "export_app":"StarRailTools", 
+            "zh-cn":"崩坏：星穹铁道小工具",
+            "en_us":"Honkai: Star Rail Tools",
+            "author":"cntvc",
+            "opensource":true
+        },
+        {
+            "export_app":"StarRailToolkit", 
+            "zh-cn":"《崩坏：星穹铁道》工具箱",
+            "en_us":"Honkai Star Rail Toolkit",
+            "author":"LittleNyima",
+            "opensource":true
+        },
+        {
+            "export_app":"asta", 
+            "zh-cn":"Asta",
+            "en_us":"Asta",
+            "author":"AuroraZiling",
+            "opensource":true
+        },
+        {
+            "export_app":"SRCat", 
+            "zh-cn":"SRCat",
+            "en_us":"SRCat",
+            "author":"BoxCatTeam",
+            "opensource":true
+        },
+        {
+            "export_app":"star-rail-gacha-export", 
+            "zh-cn":"「崩坏 · 星穹铁道」 跃迁记录导出脚本",
+            "en_us":"Star Rail Gacha Export",
+            "author":"vikiboss",
+            "opensource":true
+        },
+        {
+            "export_app":"com.lgou2w.hoyo.gacha", 
+            "zh-cn":"HoYo.Gacha",
+            "en_us":"HoYo.Gacha",
+            "author":"lgou2w",
+            "opensource":true
+        },
+        {
+            "export_app":"Starward", 
+            "zh-cn":"Starward",
+            "en_us":"Starward",
+            "author":"Scighost",
+            "opensource":true
+        }
+    ],
+
+    "untested":[
+        {
+            "export_app":"PaiGram", 
+            "zh-cn":"PamGram",
+            "en_us":"PamGram",
+            "author":"PaiGramTeam",
+            "opensource":true
+        },
+        {
+            "export_app":"SRTools", 
+            "zh-cn":"星轨工具箱",
+            "en_us":"SRTools",
+            "author":"JamXi233",
+            "opensource":true
+        },
+        {
+            "export_app":"咸鱼的崩铁助理", 
+            "zh-cn":"咸鱼的崩铁助理",
+            "en_us":"Salted Fish's HSR Assistant",
+            "author":"xyxyx718",
+            "opensource":false
+        }
+
+    ],
+    "blacklist":[
+        {
+            "export_app":"star-rail-gacha", 
+            "zh-cn":"崩坏：星穹铁道抽卡导出工具",
+            "en_us":"Star Rail Gacha Exporter",
+            "author":"DancingSnow0517",
+            "opensource":true
+        },
+        {
+            "export_app":"Miao-Yunzai", 
+            "zh-cn":"Miao-Yunzai",
+            "en_us":"Miao-Yunzai",
+            "author":"yoimiya-kokomi",
+            "opensource":true
+        }
+    ]
+}
+
+
+
+
