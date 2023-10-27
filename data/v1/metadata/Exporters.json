@@ -5,7 +5,8 @@
             "zh-cn":"星穹铁道跃迁观测工具",
             "en_us":"Star Rail Warp Observe",
             "author":"TremblingMoeNew",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         },
         {
             "export_app":"star-rail-warp-export", 
@@ -19,7 +20,8 @@
             "zh-cn":"崩坏：星穹铁道小工具",
             "en_us":"Honkai: Star Rail Tools",
             "author":"cntvc",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         },
         {
             "export_app":"StarRailToolkit", 
@@ -33,14 +35,16 @@
             "zh-cn":"Asta",
             "en_us":"Asta",
             "author":"AuroraZiling",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         },
         {
             "export_app":"SRCat", 
             "zh-cn":"SRCat",
             "en_us":"SRCat",
             "author":"BoxCatTeam",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         },
         {
             "export_app":"star-rail-gacha-export", 
@@ -61,7 +65,8 @@
             "zh-cn":"Starward",
             "en_us":"Starward",
             "author":"Scighost",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         }
     ],
 
@@ -78,14 +83,16 @@
             "zh-cn":"星轨工具箱",
             "en_us":"SRTools",
             "author":"JamXi233",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         },
         {
             "export_app":"咸鱼的崩铁助理", 
             "zh-cn":"咸鱼的崩铁助理",
             "en_us":"Salted Fish's HSR Assistant",
             "author":"xyxyx718",
-            "opensource":false
+            "opensource":false,
+            "srgf-partnership":true
         }
 
     ],
@@ -95,7 +102,8 @@
             "zh-cn":"崩坏：星穹铁道抽卡导出工具",
             "en_us":"Star Rail Gacha Exporter",
             "author":"DancingSnow0517",
-            "opensource":true
+            "opensource":true,
+            "srgf-partnership":true
         },
         {
             "export_app":"Miao-Yunzai", 
