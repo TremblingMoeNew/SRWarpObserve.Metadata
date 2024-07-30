@@ -6,7 +6,8 @@
             "en_us":"Star Rail Warp Observe",
             "author":"TremblingMoeNew",
             "opensource":true,
-            "srgf-partnership":true
+            "srgf-partnership":true,
+            "new-uigf-partnership":true
         },
         {
             "export_app":"star-rail-warp-export", 
@@ -67,6 +68,24 @@
             "author":"Scighost",
             "opensource":true,
             "srgf-partnership":true
+        },
+        {
+            "export_app":"PizzaHelper4HSR", 
+            "zh-cn":"星铁披萨小助手",
+            "en_us":"Pizza Helper for Honkai: Star Rail",
+            "author":"Pizza-studio",
+            "opensource":true,
+            "srgf-partnership":true,
+            "new-uigf-partnership":true
+        },
+        {
+            "export_app":"Firefly", 
+            "zh-cn":"流萤工具箱",
+            "en_us":"Firefly",
+            "author":"Natrium0521",
+            "opensource":true,
+            "srgf-partnership":true,
+            "new-uigf-partnership":true
         }
     ],
 
